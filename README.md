@@ -20,8 +20,8 @@ Java tiene 8 tipos de datos primitivos:
 
 # Bucles
 - **for**: Itera un número definido de veces.
-- **while**: Repite mientras una condición sea `true`.
-- **do-while**: Similar a `while`, pero ejecuta al menos una vez.
+- **while**: Repite mientras una condición sea true.
+- **do-while**: Similar a while, pero ejecuta al menos una vez.
 
 # 3. Importancia de los nombres significativos para variables y métodos
 
