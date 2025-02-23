@@ -40,19 +40,8 @@ La **POO** es un paradigma de programación basado en el uso de objetos que cont
 
 # 6. Herencia en Java
 
-La herencia permite que una clase (hija) adquiera propiedades y métodos de otra (padre). Se usa con `extends`.
-
-# Ejemplo
-class Animal {
-    void hacerSonido() {
-        System.out.println("El animal hace un sonido");
-    }
-class Perro extends Animal {
-    void hacerSonido() {
-        System.out.println("El perro ladra");
-    }
-}
-En este ejemplo,Perro hereda de Animal , pero puede redefinir (sobreescribir) métodos.
+La herencia permite que una clase (hija) adquiera propiedades y métodos de otra (padre). Se usa con extends.
+ejemplo,Perro hereda de Animal , pero puede redefinir (sobreescribir) métodos.
 
 # 7. Modificadores de acceso en Java
 
@@ -68,6 +57,6 @@ Las variables de entorno son valores del sistema que almacenan información sobr
 
 # Importancia:
 1. Permiten configurar aplicaciones sin modificar el código.
-2. Se usan para definir la ruta de `JAVA_HOME`, que indica la ubicación del JDK en el sistema.
+2. Se usan para definir la ruta de JAVA_HOME, que indica la ubicación del JDK en el sistema.
 3. Facilitan la seguridad al manejar credenciales sin almacenarlas en el código.
 
