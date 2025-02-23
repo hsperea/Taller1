@@ -43,20 +43,16 @@ La **POO** es un paradigma de programación basado en el uso de objetos que cont
 La herencia permite que una clase (hija) adquiera propiedades y métodos de otra (padre). Se usa con `extends`.
 
 # Ejemplo
-```java
 class Animal {
     void hacerSonido() {
         System.out.println("El animal hace un sonido");
     }
-}
-
 class Perro extends Animal {
     void hacerSonido() {
         System.out.println("El perro ladra");
     }
 }
-```
-En este ejemplo, `Perro` hereda de `Animal`, pero puede redefinir (sobreescribir) métodos.
+En este ejemplo,Perro hereda de Animal , pero puede redefinir (sobreescribir) métodos.
 
 # 7. Modificadores de acceso en Java
 
