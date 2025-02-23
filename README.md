@@ -1,4 +1,4 @@
-# Parte Teórica
+#### Parte Teórica
 
 # 1. Tipos de datos primitivos en Java
 Java tiene 8 tipos de datos primitivos:
